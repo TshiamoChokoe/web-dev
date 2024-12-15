@@ -6,7 +6,7 @@
 
 #Development roles: 	Tshiamo Chokoe - 
 			Tumelo Thobakgale -
-			Thabiso Young -
+	team work		Thabiso Young -
 
 
 ##Reason for website
@@ -16,7 +16,7 @@
 #Rationale or focus:	Special interest, public interest, and nonprofit organization. This website will have links to youtube videos, links to other websites that have an in-depth view of a topic, and downloadable files of the artists mixtapes dating back to 05'.
 
 
-##Design/Structure
+##Design Structure
 
 #Main elements outline:	The main features of the website will be most;y made up of pargraphs discussing albums and links to other resources to provide with more insight on topics at hand. So video, audio, hyperlinks, paragraphs and more that support the reason for the website.
 
