@@ -4,9 +4,9 @@ The University of Limpopo needs an easy to navigate website for students, staff,
 
 =======
 ##Developers and roles:
-        Tumelo Thobakgale:
-        Thabiso Young:
-        Tshiamo Chokoe:
+        - Tumelo Thobakgale:
+        * Thabiso Young:
+        + Tshiamo Chokoe:
 =======
 ##Requirements:
         - tabbed menu navigation
