@@ -3,18 +3,18 @@
 The University of Limpopo needs an easy to navigate website for students, staff, and visitors alike to make them knowledgeable of the facilities, resources, and faculties offered by the University.
 
 =======
-##Developers and roles:
+## Developers and roles:
         - Tumelo Thobakgale:
         * Thabiso Young:
         + Tshiamo Chokoe:
 =======
-##Requirements:
+## Requirements:
         - tabbed menu navigation
         - search capability
         - University of Limpopo branding
         - header(that always stay at the top of the webpages) & footer
 =======
-##Specifactions:
+## Specifactions:
         - website is intended for staff, students, and visitors of University of Limpopo
         - information about: 
                     - facilities
@@ -25,7 +25,7 @@ The University of Limpopo needs an easy to navigate website for students, staff,
                     - media
                     - and everything else that can inform any user about the University
 =======
-##Design consideration:
+## Design consideration:
         -easy to navigate website
         -uncluttered webpages
         -minimilistic and simple
