@@ -1,6 +1,5 @@
-#University of Limpopo website
+# University of Limpopo website
 
-<<<<<<< HEAD
 The University of Limpopo needs an easy to navigate website for students, staff, and visitors alike to make them knowledgeable of the facilities, resources, and faculties offered by the University.
 
 =======
@@ -10,21 +9,21 @@ The University of Limpopo needs an easy to navigate website for students, staff,
         Tshiamo Chokoe:
 =======
 ##Requirements:
-        -tabbed menu navigation
-        -search capability
-        -University of Limpopo branding
-        -header(that always stay at the top of the webpages) & footer
+        - tabbed menu navigation
+        - search capability
+        - University of Limpopo branding
+        - header(that always stay at the top of the webpages) & footer
 =======
 ##Specifactions:
-        -website is intended for staff, students, and visitors of University of Limpopo
-        -information about: 
-                    -facilities
-                    -programs offered
-                    -sports and recreation
-                    -bursaries
-                    -campus life
-                    -media
-                    -and everything else that can inform any user about the University
+        - website is intended for staff, students, and visitors of University of Limpopo
+        - information about: 
+                    - facilities
+                    - programs offered
+                    - sports and recreation
+                    - bursaries
+                    - campus life
+                    - media
+                    - and everything else that can inform any user about the University
 =======
 ##Design consideration:
         -easy to navigate website
